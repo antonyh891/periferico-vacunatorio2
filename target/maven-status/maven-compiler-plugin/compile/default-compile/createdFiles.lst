@@ -1,0 +1,11 @@
+webService\AplicacionRest.class
+dataTypes\DTInformacionVacunador.class
+dataTypes\DTRegistroVacuna.class
+Manejador\ManejadorVacunatorios$1.class
+dataTypes\DTReservaVacunatorio.class
+entidades\Puesto_Vacunador.class
+Manejador\ManejadorVacunatoriosLocal.class
+periferico_vac\periferico_vacunatorio\Jsf23Activator.class
+entidades\Vacunador.class
+Manejador\ManejadorVacunatorios.class
+webService\VacunatorioRest.class
