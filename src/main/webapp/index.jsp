@@ -7,6 +7,6 @@
 <title>Vacunatorio</title>
 </head>
 <body>
-	Perif&eacute;rico Vacunatorio 1  - TSE Grupo 13
+	Perif&eacute;rico Vacunatorio 2  - TSE Grupo 13
 </body>
 </html>
