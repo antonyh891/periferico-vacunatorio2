@@ -40,7 +40,7 @@ public class ManejadorVacunatorios implements ManejadorVacunatoriosLocal {
 	@Resource
 	TimerService timerService;
 	
-	long id = 1; 
+	long id = 2; 
 	private List<Puesto_Vacunador> puestoVacunador;
 	LocalDate fechaInicio = LocalDate.of(2021, 06, 14);
     public ManejadorVacunatorios() {
